@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T02:57:10.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="f7AoCEHEIi8V-nLiHzbs" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-10T03:00:46.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2mLq5-l7OqHkQ6qacevK" version="14.1.8" type="github">
   <diagram id="VQ9bufOY_K3BBuTou_J6" name="第 1 页">
     <mxGraphModel dx="665" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -693,6 +693,30 @@
             <mxPoint x="427" y="329" as="sourcePoint" />
             <mxPoint x="477" y="279" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-221" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-222" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="235" y="420" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-223" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-226" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-227" value="输入层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-228" value="卷积层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-229" value="池化层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxZafiEM3H1nBZWg83S-230" value="全连接层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
